@@ -136,6 +136,9 @@ font: inherit;
     .header__title2{
         left: 80;
     }
+    .wrapper{
+        height: 35%;
+    }
 }
 @media (max-width: 385px){
     .header__title{
